@@ -31,7 +31,7 @@ http://medplus.codeartisanlab.com/medplus_game/public/admin/login - Admin Login
 http://medplus.codeartisanlab.com/medplus_game/public/login - Student login
 
 ## Contributors
-- Sameer Makotia
+- Sameer Mankotia
 - Dr. Tyler Bland
 - Dr. Derrick Phillips
 
